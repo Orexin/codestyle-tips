@@ -1,3 +1,7 @@
+# VueJS 
+- [Vue mastery tutorial](https://www.vuemastery.com/courses)
+- [tutorial with node](https://www.youtube.com/watch?v=1n-Uk1QlNd4&t=822s&ab_channel=TylerPotts)
+
 # JWT
 
 AXIOS => Promise based HTTP client for the browser and node.js  
@@ -6,6 +10,7 @@ write promises into axios > Fetch from Mongo (with monk) into Vue app (upgrade t
 
 - [JWT authentication](https://blog.nextzy.me/implementing-json-web-token-jwt-to-secure-your-app-c8e1bd6f6a29?gi=fd0c3294c588)
 - [JWT decoder](https://jwt.io/ )
+- [JWT tutorial](https://www.youtube.com/watch?t=4265&v=2jqok-WgelI&feature=youtu.be&ab_channel=DevEd)
  
 # MongoDB
 
@@ -27,7 +32,8 @@ write promises into axios > Fetch from Mongo (with monk) into Vue app (upgrade t
 - [GraphQL vs REST](https://www.youtube.com/watch?v=T571423fC68&feature=emb_logo&ab_channel=Prisma)
 - [GraphQL usability](https://www.youtube.com/watch?v=zMa8rfXI6MM&feature=emb_logo&ab_channel=Prisma)
 - [GraphQL cons](https://www.root.cz/clanky/tri-nastrahy-graphql-na-co-si-dat-pozor/)
- 
+- [GraphQL tutorial](https://www.youtube.com/watch?v=ZQL7tL2S0oQ&ab_channel=WebDevSimplified) 
+
 The architecture of SQL databases like MySQL is governed by the principles of ACID property. 
 ACID stands for Atomicity, Consistency, Isolation, and Durability. These properties focus on the consistency and reliability of the transaction done in the database.  
 MongoDB is built on the principles of CAP Theorem which focuses on Consistency, Availability, and Partition. Unlike the ACID properties of SQL databases, CAP theorem focuses on availability of data in the case of MongoDB. 
@@ -52,3 +58,4 @@ NoSQL databases like MongoDB support horizontal scaling, also known as sharding.
 
 - [blog app](https://www.youtube.com/watch?v=aKCdThHAIwI&ab_channel=TylerPotts)
 - [Authentication App](https://www.youtube.com/watch?v=2jqok-WgelI&ab_channel=DevEd)
+- [Strapi headless CMS](https://www.youtube.com/watch?v=6FnwAbd2SDY&ab_channel=TraversyMedia)
